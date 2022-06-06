@@ -12,6 +12,9 @@ function App() {
         <p>
           Added a paragraph.
         </p>
+        <p>
+          Added a second paragraph.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
